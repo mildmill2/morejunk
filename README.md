@@ -1,0 +1,2 @@
+# morejunk
+practicing  with bash 
